@@ -1,6 +1,7 @@
 <img src="https://user-images.githubusercontent.com/71772559/116590419-1b64a780-a8f4-11eb-9865-c50bd9dceeb0.png" width="100%" />
 <h1 align="center">Hi , I'm Aditya Prasad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h1>
 <h3 align="center">A passionate full Stack Web development from India</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icesledgar&label=Profile%20views&color=0e75b6&style=flat" alt="icesledgar" /> </p>
 
@@ -8,12 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/icesledgar](https://github.com/icesledgar)
 
-- 💬 Ask me about **HTML;CSS;JAVA;JAVASCRIPT& C**
+- 💬 Ask me about **FRONTEND DEVELOPMENT**
 
 - 📫 How to reach me **aditya19032003@gmail.com**
 
-- 📄 Know about me, [Love to explore😍❤ and a gamer🎮😎](Love to explore😍❤ and a gamer🎮😎)
-
+- 📄 Know about me, Love to explore😍❤ and a gamer🎮😎
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/icesledgar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="icesledgar" height="30" width="40" /></a>
