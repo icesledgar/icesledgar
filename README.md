@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm ADITYA PRASAD</h1>
-<h3 align="center">A passionate full Stack Web developer from India</h3>
+<h1 align="center">Hi 👋, I'm Aditya Prasad</h1>
+<h3 align="center">A passionate full Stack Web development from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icesledgar&label=Profile%20views&color=0e75b6&style=flat" alt="icesledgar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=icesledgar" alt="icesledgar" /></a> </p>
+- 🌱 I’m currently learning **DSA and Backend Development**
 
-<p align="left"> <a href="https://twitter.com/icesledgar" target="blank"><img src="https://img.shields.io/twitter/follow/icesledgar?logo=twitter&style=for-the-badge" alt="icesledgar" /></a> </p>
-
-- 🌱 I’m currently learning **Back-End web Development; DSA**
+- 👨‍💻 All of my projects are available at [https://github.com/icesledgar](https://github.com/icesledgar)
 
 - 💬 Ask me about **HTML;CSS;JAVA;JAVASCRIPT& C**
 
 - 📫 How to reach me **aditya19032003@gmail.com**
 
+- 📄 Know about me, [Love to explore😍❤ and a gamer🎮😎](Love to explore😍❤ and a gamer🎮😎)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/icesledgar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="icesledgar" height="30" width="40" /></a>
+<a href="[https://twitter.com/icesledgar](https://twitter.com/icesledgar1)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="icesledgar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aditya prasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya prasad" height="30" width="40" /></a>
 <a href="https://instagram.com/__adit_yeaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__adit_yeaa" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/icesledgar2868" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="icesledgar2868" height="30" width="40" /></a>
