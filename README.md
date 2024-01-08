@@ -1,4 +1,4 @@
-<img align= "center" src= "https://camo.githubusercontent.com/695dec7602c747be56151062276e13b24eb583f3538449193888999f9155a5da/68747470733a2f2f6d656469612e74656e6f722e636f6d2f54357a6b3469645632445541414141432f6878682d6b75726170696b612e676966" />
+<p align= "centre"> <img src= "https://camo.githubusercontent.com/695dec7602c747be56151062276e13b24eb583f3538449193888999f9155a5da/68747470733a2f2f6d656469612e74656e6f722e636f6d2f54357a6b3469645632445541414141432f6878682d6b75726170696b612e676966" /> </p>
 <h1 align="center">Hi , I'm Aditya Prasad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h1>
 <h3 align="center">A passionate full Stack Web development from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
