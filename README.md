@@ -29,7 +29,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=icesledgar&show_icons=true&locale=en&theme=dracula" alt="icesledgar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=icesledgar&theme=dracul" alt="icesledgar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=icesledgar&theme=dracula" alt="icesledgar" /></p>
 
 ## MY Github Contributions:
 <picture>
