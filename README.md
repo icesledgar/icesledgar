@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://imgs.search.brave.com/5IqIdNp_033RJZhv9hO60ljf4J6YySxYey4sOd70v7o/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/dmVjdG9yc3RvY2su/Y29tL2kvcHJldmll/dy0xeC80MC8xNS9i/YW5uZXItc29mdHdh/cmUtZGV2ZWxvcG1l/bnQtcHJvZ3JhbW1p/bmctd2ViLXNpdGUt/dmVjdG9yLTM4MDA0/MDE1LmpwZw" width="100%" height=300>
-</p>
+
 <h1 align="center">Hi , I'm Aditya Prasad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h1>
 <h3 align="center">A passionate full Stack Web development from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
