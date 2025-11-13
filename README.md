@@ -3,8 +3,8 @@
 <h3 align="center">A passionate full Stack Web development from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=icesledgar&label=Profile%20views&color=0e75b6&style=flat" alt="icesledgar" />
-<img src= "https://camo.githubusercontent.com/d0839caaee087179aed17073b0e759f641b661c0cab81ef95e9846975c2091f8/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966" height="30"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=icesledgar&label=Profile%20views&color=0e75b6&style=flat" alt="icesledgar" />  
+<img src= "https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="30"/>
 
 - 🌱 I’m currently learning **DSA and Backend Development**
 
