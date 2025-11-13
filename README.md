@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icesledgar&label=Profile%20views&color=0e75b6&style=flat" alt="icesledgar" />
 <img src= "https://camo.githubusercontent.com/d0839caaee087179aed17073b0e759f641b661c0cab81ef95e9846975c2091f8/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966" height="30"/>
-<img src= "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczg0YzdsczVmNmZlNHF4NjN3bjU4cXplaHUxODRnYWlkcXNqcGwwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VGwTq3G6a39cI/giphy.gif"</p>
 
 - 🌱 I’m currently learning **DSA and Backend Development**
 
